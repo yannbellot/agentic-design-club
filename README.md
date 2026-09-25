@@ -1,1 +1,1 @@
-# agentic-design-club
+# Agentic Design Club
