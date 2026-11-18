@@ -11,6 +11,6 @@ Basé à Bordeaux, l’Agentic Design Club privilégie une approche ouverte, col
 
 ## Évènements
 
-**Design × AI Coding Club** — [23.06.2026 à l'ECV Bordeaux](https://luma.com/u7h5679l)
+- [**Design × AI Coding Club** — 23.06.2026 à l'ECV Bordeaux](https://luma.com/u7h5679l)
 
 ## Projet cours
