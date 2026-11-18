@@ -16,7 +16,7 @@ Basé à Bordeaux, l’Agentic Design Club privilégie une approche ouverte, col
 
 ## Projet cours
 
-###Kit Loomata
+### Loomata Kit
 
 **Kit de développement destiné aux designers pour concevoir et réaliser des applications web avec l’aide d’agents IA, sans compétence  technique de développement.**
 
