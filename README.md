@@ -9,8 +9,9 @@ Ouvert aux designers, étudiants et professionnels, le club développe deux acti
 
 Basé à Bordeaux, l’Agentic Design Club privilégie une approche ouverte, collaborative et expérimentale, fondée sur le partage des connaissances et la réalisation de projets concrets.
 
-## Évènements
+## Rencontres & évènements
 
+- [**Agentic Design Club #2** — 19.11.2026 à l'ECV Bordeaux](https://luma.com/ydnb2rgi)
 - [**Design × AI Coding Club** — 23.06.2026 à l'ECV Bordeaux](https://luma.com/u7h5679l)
 
 ## Projet cours
