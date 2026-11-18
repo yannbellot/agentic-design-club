@@ -26,4 +26,4 @@ Basé à Bordeaux, l’Agentic Design Club privilégie une approche ouverte, col
 
 **Principe clé :** passer de l’idée au MVP fonctionnel transmissible à une équipe technique.
 
-[Accéder à la page du projet](https://github.com/yannbellot/agentic-design-club/tree/cad11b93dc3bfb610c40d7508019a1e9bd987318/loomata-kit)
+- [Accéder au projet](https://github.com/yannbellot/agentic-design-club/tree/cad11b93dc3bfb610c40d7508019a1e9bd987318/loomata-kit)
