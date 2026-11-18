@@ -18,6 +18,8 @@ Basé à Bordeaux, l’Agentic Design Club privilégie une approche ouverte, col
 
 ### Loomata Kit
 
+- [**Voir le projet**](https://github.com/yannbellot/agentic-design-club/tree/cad11b93dc3bfb610c40d7508019a1e9bd987318/loomata-kit)
+
 **Kit de développement destiné aux designers pour concevoir et réaliser des applications web avec l’aide d’agents IA, sans compétence  technique de développement.**
 
 - **Complet** — Du brief fonctionnel au produit
@@ -25,5 +27,3 @@ Basé à Bordeaux, l’Agentic Design Club privilégie une approche ouverte, col
 - **Libre et gratuit** — Licence MIT
 
 **Principe clé :** passer de l’idée au MVP fonctionnel transmissible à une équipe technique.
-
-- [**Lien vers le projet**](https://github.com/yannbellot/agentic-design-club/tree/cad11b93dc3bfb610c40d7508019a1e9bd987318/loomata-kit)
