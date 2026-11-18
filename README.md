@@ -8,3 +8,9 @@ Ouvert aux designers, étudiants et professionnels, le club développe deux acti
 - **Projets collaboratifs** : concevoir, développer et distribuer des outils et des produits numériques qui exploitent les possibilités des agents IA pour enrichir les pratiques du design.
 
 Basé à Bordeaux, l’Agentic Design Club privilégie une approche ouverte, collaborative et expérimentale, fondée sur le partage des connaissances et la réalisation de projets concrets.
+
+## Évènements
+
+**Design × AI Coding Club** — [23.06.2026 à l'ECV Bordeaux]([https://exemple.com](https://luma.com/u7h5679l)
+
+## Projet cours
